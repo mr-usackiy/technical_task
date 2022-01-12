@@ -1,0 +1,543 @@
+.wrapper_content{
+    width: 100%;
+}
+.header-title-content{
+    width: 100%;
+}
+.header-title{
+    margin: 0 auto;
+    max-width: 1157px;
+}
+.header-title-content{
+    height: 123px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    button{
+        margin-left: 189px;
+        width: 226px;
+        height: 58px;
+        background: linear-gradient(180deg, #F42C2B 0%, rgba(0, 0, 0, 0) 100%), #460D09;
+        border-radius: 10px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    h1{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        text-align: center;
+        color: #000000;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.block-1{
+    max-width: 1920px;
+    margin: 0 auto;
+    background-image: url(/img/block_1_bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.block-1_content-2{
+    margin-top: 83px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+
+
+.order-form{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 50px rgba(136, 136, 136, 0.25);
+    border-radius: 20px;
+    margin-bottom: 36px;
+    margin-left: 105px;
+}
+
+
+
+.power{
+    position: relative;
+    &::before{
+        content: "Юношеская активность в постели ";
+        position: absolute;
+        display: block;
+        max-width: 204px;
+        top: -8px;
+        left: -40px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+    &::after{
+        content: "Устойчивая эрекция";
+        position: absolute;
+        display: block;
+        max-width: 177px;
+        top: 103px;
+        left: -150px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+}
+.power_text{
+    position: relative;
+    &::before{
+        content: "Увеличение продолжительности полового акта ";
+        position: absolute;
+        display: block;
+        max-width: 275px;
+        top: 188px;
+        left: -287px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+    &::after{
+        content: "Яркие оргазмы";
+        position: absolute;
+        display: block;
+        max-width: 134px;
+        top: 329px;
+        left: -120px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+}
+.wrapper_block-1{
+    max-width: 1273px;
+    margin: 0 auto;
+
+}
+
+
+
+.block-1-content-1_title-1{
+    max-width: 1010px;
+    margin-top: 20px;
+    h1{
+        padding-top: 20px; 
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 4em;
+        line-height: 78px;
+        color: #FFFFFF;
+    }
+   
+}
+.block-1-content-1_title-2{
+    h2{
+        max-width: 552px;
+        margin-top: 26px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 2.25em;
+        line-height: 44px;
+        color: #FFFFFF;
+}
+}
+
+.color{
+    color: #F8C67D;
+}
+//форма заявки
+.order-form_wrap{
+    display: flex;
+    flex-direction: column;
+    max-width: 299px;
+    margin: 34px 29px;
+    input{
+        background: #EAEAEC;
+        border-radius: 0.625em;
+        border: none;
+        width: 283px;
+        height: 41px;  
+        padding-left: 16px; 
+    }
+    h2{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 0.75em;
+        line-height: 15px;
+        color: #000000;
+        text-align: start;
+        span{
+            font-weight: bold;
+        }
+    }
+    h4{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 0.75em;
+        line-height: 15px;
+        color: #000000;
+        text-align: start;
+    }
+    button{
+        margin: 0% 25%;
+    }
+}
+.order-form-wrap_but{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 17px;
+}
+.order-form_title{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+
+.order-form_but{
+    width: 221px;
+    height: 63px;
+    border: none;
+    background: linear-gradient(180deg, #F72E2D 0%, rgba(0, 0, 0, 0) 100%), #420707;
+    border-radius: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.rder-form-time_title{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+    margin-bottom: 13px;
+}
+.order-form-time_table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 33px;
+    margin-top: 10px;
+    div{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+        width: 65px;
+        height: 40px;
+        border: none;
+        border-radius: 10px;
+        color: white;
+        background: linear-gradient(180deg, #F42C2B 0%, rgba(0, 0, 0, 0) 100%), #460D09;
+        p{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 20px;
+            text-align: center;
+            color: #FFFFFF;   
+
+        }
+    }
+    
+   
+    
+}
+.hour{
+    position: relative;
+    &::before{
+        content: "Часов";
+        color: rgb(0, 0, 0);
+        position: absolute;
+        top: 46px;
+        left: 11px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 0.75em;
+        line-height: 15px;
+        color: #000000;
+        text-align: start;
+    }
+    &::after{
+        content: ":";
+        color: rgb(0, 0, 0);
+        position: absolute;
+        top: 25%;
+        left: 125%;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 0.75em;
+        line-height: 15px;
+        color: #000000;
+        text-align: start;        
+    }
+}
+.minute{
+    position: relative;
+    &::before{
+        content: "Минут";
+        color: rgb(0, 0, 0);
+        position: absolute;
+        top: 46px;
+        left: 11px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 0.75em;
+        line-height: 15px;
+        color: #000000;
+        text-align: start;
+    }
+    &::after{
+        content: ":";
+        color: rgb(0, 0, 0);
+        position: absolute;
+        top: 25%;
+        left: 125%;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 0.75em;
+        line-height: 15px;
+        color: #000000;
+        text-align: start;        
+    }    
+}
+.seconds{
+    position: relative;
+    &::before{
+        content: "Секунд";
+        color: rgb(0, 0, 0);
+        position: absolute;
+        top: 46px;
+        left: 8px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 0.75em;
+        line-height: 15px;
+        color: #000000;
+        text-align: start;
+    }    
+}
+.order-form_input-wrapper{
+    margin-bottom: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Блок 2
+.block-2{
+    position: relative;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.wrapper_block-2{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+
+//Блок 2.1
+.block-2_title{
+    max-width: 806px;
+    margin: 0 auto;
+    z-index: 0;
+    margin-bottom: 84px;
+    margin-top: 40px;
+    img{
+        position: absolute;
+        top: 0%;
+        left: 0;
+       
+    }
+    h1{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+        color: #140202;
+    }
+}
+
+
+//Блок 2.2
+.wrap-block-2_2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: center;
+}
+.block-2-2_text{
+    margin-right: 46px;
+    z-index: 2;
+    max-width: 575px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: #140202;
+    p{
+        z-index: 111;
+        span{
+            font-weight: bold;
+        }
+    }
+}
+
+
+//Блок 2.3
+
+.wrap-block-2_3{
+    max-width: 1920px;
+    margin: 0 auto ;
+    padding-top: 40px;
+}
+.wrap-block-2_3-border{
+    margin: 0 auto;
+    max-width: 1372px;
+    background-color: rgba(66, 7, 7, 1);
+    border-radius: 15px;
+    height: 419px;
+    margin: 0 auto;
+}
+.wrap-block-2_3_wrap_wrap{
+    padding-top: 35px;
+}
+.wrap-block-2_3_wrap{
+    max-width: 1305px;
+    margin: auto ;
+    background-color: rgba(66, 7, 7, 1);
+    border: 2px solid white;
+    border-radius: 15px;   
+        p{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 24px;
+            line-height: 29px;
+            text-align: center;
+            color: #FFFFFF; 
+            margin: 50px 0px 26px 0px;     
+        }
+}
+.wrap-block-2_3_imgs{
+    width: 100%;
+    background-color: rgba(66, 7, 7, 1);
+    margin-bottom: 21px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    img{
+        border-radius: 20px;
+        filter:drop-shadow(0px 4px 50px rgba(255, 255, 255, 0.267));
+    }
+}
+.wrap-block-2_3_imgs-pic{
+    max-width: 30%;
+}

@@ -1,0 +1,560 @@
+@charset "UTF-8";
+.wrapper_content {
+  width: 100%;
+}
+
+.header-title-content {
+  width: 100%;
+}
+
+.header-title {
+  margin: 0 auto;
+  max-width: 1157px;
+}
+
+.header-title-content {
+  height: 123px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header-title-content button {
+  margin-left: 189px;
+  width: 226px;
+  height: 58px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#F42C2B), to(rgba(0, 0, 0, 0))), #460D09;
+  background: linear-gradient(180deg, #F42C2B 0%, rgba(0, 0, 0, 0) 100%), #460D09;
+  border-radius: 10px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.header-title-content h1 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+}
+
+.block-1 {
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url(/img/block_1_bg1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.block-1_content-2 {
+  margin-top: 83px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.order-form {
+  background: #FFFFFF;
+  -webkit-box-shadow: 0px 4px 50px rgba(136, 136, 136, 0.25);
+          box-shadow: 0px 4px 50px rgba(136, 136, 136, 0.25);
+  border-radius: 20px;
+  margin-bottom: 36px;
+  margin-left: 105px;
+}
+
+.power {
+  position: relative;
+}
+
+.power::before {
+  content: "Юношеская активность в постели ";
+  position: absolute;
+  display: block;
+  max-width: 204px;
+  top: -8px;
+  left: -40px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.power::after {
+  content: "Устойчивая эрекция";
+  position: absolute;
+  display: block;
+  max-width: 177px;
+  top: 103px;
+  left: -150px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.power_text {
+  position: relative;
+}
+
+.power_text::before {
+  content: "Увеличение продолжительности полового акта ";
+  position: absolute;
+  display: block;
+  max-width: 275px;
+  top: 188px;
+  left: -287px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.power_text::after {
+  content: "Яркие оргазмы";
+  position: absolute;
+  display: block;
+  max-width: 134px;
+  top: 329px;
+  left: -120px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.wrapper_block-1 {
+  max-width: 1273px;
+  margin: 0 auto;
+}
+
+.block-1-content-1_title-1 {
+  max-width: 1010px;
+  margin-top: 20px;
+}
+
+.block-1-content-1_title-1 h1 {
+  padding-top: 20px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 4em;
+  line-height: 78px;
+  color: #FFFFFF;
+}
+
+.block-1-content-1_title-2 h2 {
+  max-width: 552px;
+  margin-top: 26px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 2.25em;
+  line-height: 44px;
+  color: #FFFFFF;
+}
+
+.color {
+  color: #F8C67D;
+}
+
+.order-form_wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  max-width: 299px;
+  margin: 34px 29px;
+}
+
+.order-form_wrap input {
+  background: #EAEAEC;
+  border-radius: 0.625em;
+  border: none;
+  width: 283px;
+  height: 41px;
+  padding-left: 16px;
+}
+
+.order-form_wrap h2 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 15px;
+  color: #000000;
+  text-align: start;
+}
+
+.order-form_wrap h2 span {
+  font-weight: bold;
+}
+
+.order-form_wrap h4 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.75em;
+  line-height: 15px;
+  color: #000000;
+  text-align: start;
+}
+
+.order-form_wrap button {
+  margin: 0% 25%;
+}
+
+.order-form-wrap_but {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 17px;
+}
+
+.order-form_title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #000000;
+}
+
+.order-form_but {
+  width: 221px;
+  height: 63px;
+  border: none;
+  background: -webkit-gradient(linear, left top, left bottom, from(#F72E2D), to(rgba(0, 0, 0, 0))), #420707;
+  background: linear-gradient(180deg, #F72E2D 0%, rgba(0, 0, 0, 0) 100%), #420707;
+  border-radius: 10px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.rder-form-time_title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+  margin-bottom: 13px;
+}
+
+.order-form-time_table {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-bottom: 33px;
+  margin-top: 10px;
+}
+
+.order-form-time_table div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  width: 65px;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  background: -webkit-gradient(linear, left top, left bottom, from(#F42C2B), to(rgba(0, 0, 0, 0))), #460D09;
+  background: linear-gradient(180deg, #F42C2B 0%, rgba(0, 0, 0, 0) 100%), #460D09;
+}
+
+.order-form-time_table div p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.hour {
+  position: relative;
+}
+
+.hour::before {
+  content: "Часов";
+  color: black;
+  position: absolute;
+  top: 46px;
+  left: 11px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.75em;
+  line-height: 15px;
+  color: #000000;
+  text-align: start;
+}
+
+.hour::after {
+  content: ":";
+  color: black;
+  position: absolute;
+  top: 25%;
+  left: 125%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.75em;
+  line-height: 15px;
+  color: #000000;
+  text-align: start;
+}
+
+.minute {
+  position: relative;
+}
+
+.minute::before {
+  content: "Минут";
+  color: black;
+  position: absolute;
+  top: 46px;
+  left: 11px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.75em;
+  line-height: 15px;
+  color: #000000;
+  text-align: start;
+}
+
+.minute::after {
+  content: ":";
+  color: black;
+  position: absolute;
+  top: 25%;
+  left: 125%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.75em;
+  line-height: 15px;
+  color: #000000;
+  text-align: start;
+}
+
+.seconds {
+  position: relative;
+}
+
+.seconds::before {
+  content: "Секунд";
+  color: black;
+  position: absolute;
+  top: 46px;
+  left: 8px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.75em;
+  line-height: 15px;
+  color: #000000;
+  text-align: start;
+}
+
+.order-form_input-wrapper {
+  margin-bottom: 24px;
+}
+
+.block-2 {
+  position: relative;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.wrapper_block-2 {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.block-2_title {
+  max-width: 806px;
+  margin: 0 auto;
+  z-index: 0;
+  margin-bottom: 84px;
+  margin-top: 40px;
+}
+
+.block-2_title img {
+  position: absolute;
+  top: 0%;
+  left: 0;
+}
+
+.block-2_title h1 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  color: #140202;
+}
+
+.wrap-block-2_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.block-2-2_text {
+  margin-right: 46px;
+  z-index: 2;
+  max-width: 575px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  color: #140202;
+}
+
+.block-2-2_text p {
+  z-index: 111;
+}
+
+.block-2-2_text p span {
+  font-weight: bold;
+}
+
+.wrap-block-2_3 {
+  max-width: 1920px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.wrap-block-2_3-border {
+  margin: 0 auto;
+  max-width: 1372px;
+  background-color: #420707;
+  border-radius: 15px;
+  height: 419px;
+  margin: 0 auto;
+}
+
+.wrap-block-2_3_wrap_wrap {
+  padding-top: 35px;
+}
+
+.wrap-block-2_3_wrap {
+  max-width: 1305px;
+  margin: auto;
+  background-color: #420707;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+
+.wrap-block-2_3_wrap p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 50px 0px 26px 0px;
+}
+
+.wrap-block-2_3_imgs {
+  width: 100%;
+  background-color: #420707;
+  margin-bottom: 21px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.wrap-block-2_3_imgs img {
+  border-radius: 20px;
+  -webkit-filter: drop-shadow(0px 4px 50px rgba(255, 255, 255, 0.267));
+          filter: drop-shadow(0px 4px 50px rgba(255, 255, 255, 0.267));
+}
+
+.wrap-block-2_3_imgs-pic {
+  max-width: 30%;
+}
